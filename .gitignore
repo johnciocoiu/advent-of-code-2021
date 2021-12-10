@@ -1,0 +1,4 @@
+data/*.txt
+!data/*-test.txt
+.Trash*
+.ipynb_checkpoints
